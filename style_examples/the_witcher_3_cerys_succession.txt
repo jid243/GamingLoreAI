@@ -1,0 +1,9 @@
+GAME: The Witcher 3
+TOPIC: Skellige's succession: how Cerys outsmarts everyone
+NOTE: written by Claude as a style reference (not yet published)
+[hook] To win a crown, Cerys an Craite tells Geralt to throw a jarl's baby into a burning oven.
+[story] In The Witcher 3, Skellige's king is dead, and the jarls choose who rules next. Cerys needs a deed worth choosing.
+[story] Jarl Udalryk hears voices he thinks are the gods. Cerys digs deeper: his brother drowned in a storm while Udalryk fought the sails.
+[story] His guilt feeds a hym, a spirit that preys on the guilty. So Cerys grabs his baby and hands him to Geralt.
+[payoff] As Geralt, trust her and throw him in, and the hym leaps from the jarl to you, feeding on your guilt, until the baby appears, alive. A man was waiting behind the oven. Later, when the royal feast ends in slaughter, she unmasks the plotter: the dead king's widow.
+[question] Would you obey an order that monstrous, without knowing the plan?

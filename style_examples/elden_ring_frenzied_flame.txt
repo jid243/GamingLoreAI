@@ -1,0 +1,10 @@
+GAME: Elden Ring
+TOPIC: The ending where you burn the entire world
+NOTE: written by Claude as a style reference (not yet published)
+[hook] There's an ending in Elden Ring where you don't save the world. You burn it.
+[story] Beneath the capital, behind a door that only opens for someone wearing nothing at all, wait the Three Fingers.
+[story] Let them embrace you, and you become the Lord of Frenzied Flame, a saviour who promises to take away all torment, despair and affliction.
+[story] By burning everything.
+[story] Melina, who has guided you since the start of your journey, warned you: "Should you rise, as the Lord of Chaos, I will kill you, as sure as night follows day."
+[payoff] Choose the flame anyway, and she leaves you, vowing to find you however far you go, and bring you your death. Unless you find Miquella's Needle first, there's no going back.
+[question] If all life is suffering, is burning it away cruelty, or mercy?

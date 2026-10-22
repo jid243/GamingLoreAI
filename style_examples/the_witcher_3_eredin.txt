@@ -1,0 +1,9 @@
+GAME: The Witcher 3
+TOPIC: The Eredin nobody understands
+NOTE: written by Claude as a style reference (not yet published)
+[hook] The king of the Wild Hunt isn't chasing Ciri out of hatred. He's trying to save his world.
+[story] In The Witcher 3, Eredin rules the Aen Elle, elves from another world. That world is dying, swallowed by the White Frost, an endless winter that threatens every world.
+[story] His answer: escape into ours. Only Ciri's power can open a gate big enough for his people, even if it kills her.
+[story] But he's no tragic hero. His own king, Auberon, died from a potion Eredin gave him. Eredin took the throne and silenced almost everyone who knew.
+[payoff] On the deck of his ship, Geralt finally cuts him down. Dying, Eredin claims they were both puppets, set against each other by the elf Avallac'h all along.
+[question] Is a king who would sacrifice one girl to save his people a villain, or just desperate?

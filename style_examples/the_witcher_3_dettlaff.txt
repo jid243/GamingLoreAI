@@ -1,0 +1,10 @@
+GAME: The Witcher 3
+TOPIC: Dettlaff, the vampire a witcher cannot kill
+NOTE: written by Claude as a style reference (not yet published)
+[hook] Geralt can beat this vampire in a fight. He still can't kill him.
+[story] In The Witcher 3, Dettlaff van der Eretein is a higher vampire, and no man can truly kill a higher vampire. That takes another one.
+[story] Dettlaff loved a woman he knew as Rhena. When she was kidnapped, he obeyed every order to save her, and murdered four Toussaint knights.
+[story] But the kidnapping was a lie. Rhena was Syanna, the duchess's sister, using his love to kill those knights.
+[story] When Dettlaff learned the truth, he unleashed an army of lesser vampires on Beauclair, and civilians died.
+[payoff] Geralt can face him and bring him down. But only Regis, whose life Dettlaff once saved with his own blood, can finish it, and he says goodbye to his friend first.
+[question] Is Dettlaff a monster, or the most betrayed man in Toussaint?

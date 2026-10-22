@@ -1,0 +1,10 @@
+GAME: Cyberpunk 2077
+TOPIC: Is Johnny Silverhand really Johnny Silverhand?
+NOTE: written by Claude as a style reference (not yet published)
+[hook] The man in V's head looks like Johnny Silverhand, talks like him, hates Arasaka like him. But Johnny died in 2023.
+[story] In Cyberpunk 2077, Johnny attacked Arasaka Tower and was flatlined by Soulkiller, which scans a mind and stores it as an engram.
+[story] That copy sat on a chip called the Relic for over fifty years, until it ended up in V's brain.
+[story] And it isn't just sharing V's head. It's rewriting V's brain, replacing V.
+[story] Even his memories can't be trusted. Alt Cunningham, the woman he loved, says his version bears no resemblance to the truth.
+[payoff] Depending on how you play, the engram changes: the selfish rockerboy can soften and start caring about V. The original never got that chance.
+[question] If a copy has his memories and rage but can still change, is it Johnny, or someone new?

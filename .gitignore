@@ -1,0 +1,26 @@
+# private: API keys (never commit these)
+*_api_key.txt
+.env
+
+# everything the pipeline downloads or makes (large, and per-machine)
+sources/
+Sources/
+scripts/
+Scripts/
+fact_checks/
+Fact_Checks/
+clip_manifests/
+comfyui_input_clips/
+video_output/
+narration/
+ai_images/
+benchmark/
+old_research/
+backup_*/
+bin/
+fonts/
+__pycache__/
+*.pyc
+*.mp4
+*.wav
+*.mp3

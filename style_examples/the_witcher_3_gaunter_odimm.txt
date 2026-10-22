@@ -1,0 +1,9 @@
+GAME: The Witcher 3
+TOPIC: Gaunter O'Dimm, the man who can stop time
+NOTE: written by Claude as a style reference (not yet published)
+[hook] A drunk interrupts a conversation in a tavern. The other man stops time, and kills him with a spoon.
+[story] In The Witcher 3, that man is Gaunter O'Dimm. He looks like a harmless merchant. He isn't.
+[story] When Geralt is a prisoner on a ship, O'Dimm offers him freedom for one small favour. Geralt agrees. O'Dimm burns a mark into his face, and a storm wrecks the ship.
+[story] The favour: grant three wishes to Olgierd von Everec, who sold O'Dimm his soul. Each wish comes true to the letter, through a loophole.
+[payoff] Then O'Dimm comes to collect. As Geralt, you can hand Olgierd over, or bet your own soul on a timed riddle. Solve it, and you find O'Dimm hiding in your reflection, and banish him from this world.
+[question] Would you bet your soul to save a man who sold his?

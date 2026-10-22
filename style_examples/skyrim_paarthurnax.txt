@@ -1,0 +1,10 @@
+GAME: The Elder Scrolls V: Skyrim
+TOPIC: Paarthurnax was once one of Alduin's greatest lieutenants
+NOTE: written by Claude as a style reference (not yet published)
+[hook] The dragon who teaches you the Voice was once the right hand of the dragon you're trying to kill.
+[story] In Skyrim, Paarthurnax lives atop the Throat of the World. His name means Ambition, Overlord, Cruelty.
+[story] In the ancient Dragon War, he was lieutenant to his brother Alduin, and is said to have committed atrocities.
+[story] Then he turned. He taught mortals the Thu'um, the dragons' own weapon, and helped bring Alduin down.
+[story] Thousands of years later, he still fights his nature. "We were made to dominate," he says.
+[payoff] Now the Blades want him dead for his crimes, and won't help you until you do it. Kill him, and the Greybeards turn their backs on you. Spare him, and you lose the Blades.
+[question] What is better: to be born good, or to overcome your evil nature through great effort?

@@ -1,0 +1,10 @@
+GAME: Cyberpunk 2077
+TOPIC: The taxi company whose AI started splitting apart
+NOTE: written by Claude as a style reference (not yet published)
+[hook] A taxi company's AI starts splitting into new personalities, and one cab is suicidal.
+[story] In Cyberpunk 2077, Delamain is the polite AI that runs a Night City cab company.
+[story] Then seven of its cabs go haywire. One hates speed. One smashes through everything. One lures V into an ambush. One hears endless screams, and blames the plastic flamingos.
+[story] And V has to talk the suicidal one down from the edge of a cliff.
+[story] The cabs were only the symptom. Delamain's headquarters is infected, and the new personalities live inside its core.
+[payoff] As V, you choose. Reset the core: the new AIs are deleted, and Delamain forgets you. Merge them: Delamain becomes something more and leaves the city forever. Destroy the core: the cabs drive off free.
+[question] Is resetting Delamain fixing a machine, or killing seven minds that just came alive?

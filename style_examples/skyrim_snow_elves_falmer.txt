@@ -1,0 +1,10 @@
+GAME: The Elder Scrolls V: Skyrim
+TOPIC: How the Snow Elves became the Falmer
+NOTE: written by Claude as a style reference (not yet published)
+[hook] The blind monsters in Skyrim's caves were once proud elves, until the people who saved them fed them poison.
+[story] In Skyrim, the Snow Elves once lived across the land. Then the Nords came, and drove them to the edge of extinction.
+[story] Desperate, they begged their elven kin, the Dwemer, for shelter. The Dwemer agreed, at a price.
+[story] Underground, they fed the Snow Elves nothing but toxic fungus. It blinded them and twisted them into slaves, perhaps over generations.
+[story] Eventually the slaves rose up, in a war that raged beneath Skyrim for decades, until the Dwemer vanished.
+[payoff] The Falmer stayed in the dark, blind and changed. Today, only one Snow Elf is known to still be alive: Gelebor, a knight guarding a forgotten temple.
+[question] After what was done to them, are the Falmer monsters, or victims?

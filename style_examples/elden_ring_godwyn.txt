@@ -1,0 +1,10 @@
+GAME: Elden Ring
+TOPIC: The night Godwyn the Golden was murdered
+NOTE: written by Claude as a style reference (not yet published)
+[hook] One night, someone found a way to kill a god's son, and it broke the world.
+[story] In Elden Ring, Queen Marika had locked Death itself away, guarded by Maliketh, the Black Blade.
+[story] Then Ranni the Witch stole a fragment of it, forged it into godslaying black knives, and gave them to assassins, women close to Marika herself.
+[story] Their target: Godwyn the Golden, a demigod who made a friend of the dragon he defeated. They killed his soul.
+[story] But his body lived on. Buried in the Erdtree's roots, it twisted into the Prince of Death and spread Deathroot across the land.
+[payoff] And at the very same moment, Ranni's own body died too. That was her plan: shed her flesh, keep her spirit, and escape the gods' control.
+[question] Was Ranni a murderer, or the only one brave enough to break free?

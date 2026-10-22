@@ -1,0 +1,10 @@
+GAME: Cyberpunk 2077
+TOPIC: What's actually hiding behind the Blackwall?
+NOTE: written by Claude as a style reference (not yet published)
+[hook] The internet of the future is guarded by a wall. Not to keep hackers out, but to keep something in.
+[story] In Cyberpunk 2077, the old Net is dead. Rache Bartmoss's attack shattered it, and feral AIs born in the wreckage began threatening the corporations.
+[story] Rebuilding failed, so NetWatch's netrunners sealed what was left behind the Blackwall.
+[story] Beyond it, rogue AIs roam the ruins of cyberspace. Netrunners stranded there had no safe way home.
+[story] Alt Cunningham lives there now, after Arasaka's Soulkiller tore her mind from her body. To survive, she must hold a human shape, or dissolve into pure data.
+[payoff] And the Blackwall itself isn't really a wall. It's a powerful AI pretending to be ICE. The only thing between us and the rogue AIs is another AI.
+[question] If the guard is an AI too, who is it protecting: us, or them?

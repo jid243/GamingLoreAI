@@ -1,0 +1,9 @@
+GAME: The Elder Scrolls V: Skyrim
+TOPIC: The secret dragon hidden beneath Skyrim
+NOTE: written by Claude as a style reference (not yet published)
+[hook] Deep beneath Skyrim, a dragon waits in the dark. It only comes if you shout at the light.
+[story] In Skyrim, under the mountains lies Blackreach, an immense cavern with a ruined Dwarven city at its heart. Today it crawls with Falmer.
+[story] Above the Silent City hangs a huge glowing Dwemer sphere. It's easy to walk right past.
+[story] But hit it with Unrelenting Force, and it rings like a gong. And something answers.
+[payoff] Vulthuryol. His name means Dark, Overlord, Fire. He circles the fortress, breathes fire at nothing at all, then lands, and never takes to the air again. Even Bend Will can't tame him down here.
+[question] Is Vulthuryol guarding Blackreach, or is he trapped in it?

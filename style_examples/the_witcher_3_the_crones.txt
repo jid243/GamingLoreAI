@@ -1,0 +1,10 @@
+GAME: The Witcher 3
+TOPIC: The Crones and the children of Velen
+NOTE: written by Claude as a style reference (not yet published)
+[hook] In Velen, villagers hand unwanted children to three witches, knowing exactly what the witches will do with them.
+[story] In The Witcher 3, villagers worship them as the Ladies of the Wood. Others call them the Crones.
+[story] Deep in Crookback Bog, an old woman called Gran runs an orphanage for them.
+[story] Everyone knows what happens next. The Crones kill the children, and eat them.
+[story] Even the faithful aren't safe. At one Sabbath, the Crones secretly feasted on the worshippers chosen to meet them.
+[payoff] When Ciri fell into their bog, they planned to eat one of her limbs and save the rest for the Wild Hunt. She overheard and ran. Later she came back, and two of the sisters died by her hand.
+[question] If the villagers knew all along, who's the real monster: the Crones, or the people feeding them?

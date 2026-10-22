@@ -1,0 +1,10 @@
+GAME: Elden Ring
+TOPIC: Why Mohg stole Miquella
+NOTE: written by Claude as a style reference (not yet published)
+[hook] Mohg stole a sleeping demigod from a sacred tree to make him his consort. But was it really Mohg's idea?
+[story] In Elden Ring, Miquella could one day become a god. To shed his curse, he sealed himself inside his Haligtree, asleep and unguarded.
+[story] Mohg, Lord of Blood, saw his chance and took him.
+[story] Back in his palace, Mohg kept Miquella in a cocoon, and his followers offered blood to wake him. Mohg's dream: raise Miquella to godhood and rule at his side. "The coming of our dynasty!"
+[story] Miquella never answered.
+[payoff] Because somewhere along the way, Mohg had been enchanted by Miquella, without ever knowing it. The kidnapper may never have been the one in control.
+[question] So who really took whom: did Mohg steal Miquella, or did Miquella steal Mohg?

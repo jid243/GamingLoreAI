@@ -1,0 +1,10 @@
+GAME: The Witcher 3
+TOPIC: Botchling
+RESULT: published Short; viewers who stayed watched 96% of it on average (0:44 of 0:46)
+[hook] A grieving father begs Geralt to spare the monster in his family's grave: the baby he believes he killed.
+[story] In The Witcher 3, Phillip Strenger, the Bloody Baron, beat his wife Anna in drunken rages until she hated him.
+[story] So when she fell pregnant again, she went to the Crones and made a pact to be rid of the child.
+[story] After one last fight, the baby was dead, and Phillip, guessing his abuse had caused it, buried it in a shallow grave.
+[story] That was the mistake. A dead, unwanted baby discarded without a burial rises as a botchling.
+[payoff] Kill it, and Phillip loses his child twice. Spare it, and he names her Dea, buries her beneath the family's doorway, and she returns as a guardian spirit that leads Geralt to Anna's trail.
+[question] Does the man who caused this deserve the chance to save her?
